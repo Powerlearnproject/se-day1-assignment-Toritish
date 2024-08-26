@@ -65,3 +65,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague – “Tell me about space”
 Improved – “Explain the formation of stars process the role of gas clouds and gravity”
 The improved is more effective since its clearer it has narrowed down the expectations of the questions to a specific prompt
+Some change
